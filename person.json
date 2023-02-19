@@ -1,0 +1,20 @@
+[
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg/250px-Elon_Musk_Royal_Society_%28crop1%29.jpg",
+      "name": "Elon Musk",
+      "position":"Co-Founder"
+    },
+    {
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5c76b7d331358e35dd2773a9/0x0.jpg?format=jpg&crop=4401,4401,x0,y0,safe&height=416&width=416&fit=bounds",
+        "name": "Mark Zuckerberg",
+        "position":"Co-Founder"
+      }, {
+        "image": "https://i.guim.co.uk/img/media/a70fcfe9c132239554a052319d1f46c14d045553/0_69_3164_1898/master/3164.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=a0cf36524d843c4c21f8db0a1c912523",
+        "name": "John Cena",
+        "position":"Co-Founder"
+      }, {
+        "image": "https://hips.hearstapps.com/hmg-prod/images/steve-jobs--david-paul-morrisbloomberg-via-getty-images.jpg",
+        "name": "Steve Jobs",
+        "position":"Co-Founder"
+      }
+  ]

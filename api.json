@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Pay transparency can help close the gender pay gap but at what cost?",
+      "detail": "How much you earn compared to your peers has traditionally been a taboo topic that you may feel too shy to discuss with your colleagues.",
+      "image":"https://static.euronews.com/articles/stories/06/98/49/70/640x358_cmsv2_41f6ae62-2a1a-55de-87b1-1f41c36a836e-6984970.jpg",
+    "class":"img-zoomblur",
+    "href":"https://www.euronews.com/next/2022/08/31/pay-transparency-can-help-close-the-gender-pay-gap-but-at-what-cost"
+    },
+    {
+        "title": "An EU-wide approach to gender-based violence is taking shape but gaps remain",
+        "detail": "In 2020, they recorded 444 cases of femicide across Europe – almost certainly an underestimate. Less suffer for women.",
+        "image":"https://static.euronews.com/articles/stories/07/03/15/76/773x435_cmsv2_fc3c3d8d-5c1a-5167-b597-01c8f0ed6c05-7031576.jpg",
+      "class":"img-brighten",
+      "href":"https://www.euronews.com/my-europe/2022/09/21/an-eu-wide-approach-to-gender-based-violence-is-taking-shape-but-gaps-remain"
+      }, {
+        "title": "Spain becomes latest to give equal pay to male and female national team",
+        "detail": "Spain's football federation has announced that male and female players will receive equal pay for representing their country.",
+        "image":"https://static.euronews.com/articles/stories/06/77/62/42/773x435_cmsv2_37267be4-3a45-50ce-a9aa-c6acb29d75bd-6776242.jpg",
+      "class":"img-colorize",
+      "href":"News.html"
+      }, {
+        "title": "'Shorter' women can join Spain's police force, says Supreme Court",
+        "detail": "Spain’s Supreme Court has condemned a discriminatory rule that prevented shorter women from joining the country's police force.",
+        "image":"https://static.euronews.com/articles/stories/06/86/18/46/773x435_cmsv2_eae1b491-4bd2-58f8-8b55-35fc0bcd0953-6861846.jpg",
+      "class":"img-quickzoom",
+      "href":"https://www.euronews.com/2022/07/18/shorter-women-can-join-spains-police-force-says-supreme-court"
+      }
+  ]
